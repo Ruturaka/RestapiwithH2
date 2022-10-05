@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RestApiWithH2.iml" filepath="$PROJECT_DIR$/.idea/RestApiWithH2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jdbctemplate-crud-example/spring-boot-jdbctemplate-crud-example.iml" filepath="$PROJECT_DIR$/spring-boot-jdbctemplate-crud-example/spring-boot-jdbctemplate-crud-example.iml" />
+    </modules>
+  </component>
+</project>
